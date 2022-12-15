@@ -1,3 +1,7 @@
+// find out where the bugs are
+// check that the file runs
+
+
 function add(numb1, numb2) {
   let num1 = String(numb1);
   return num1 + numb2;
